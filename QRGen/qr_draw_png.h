@@ -4,10 +4,10 @@
 #include <stdlib.h>
 #include <math.h>
 #include "qr_draw.h"
-#include <png.h>
+#include "png.h"
 
 //=============================================================================
-// QRDrawPNG ƒNƒ‰ƒX
+// QRDrawPNG ï¿½Nï¿½ï¿½ï¿½X
 //=============================================================================
 class QRDrawPNG : public QRDraw
 {
